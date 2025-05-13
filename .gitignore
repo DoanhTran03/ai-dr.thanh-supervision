@@ -1,0 +1,14 @@
+#IDE specific ignores
+.idea/
+
+#Python environment ignores
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
+lib64
+
+# Jupyter Notebook autosaves
+*.ipynb_checkpoints/
